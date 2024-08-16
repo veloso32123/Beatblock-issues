@@ -1,5 +1,5 @@
 ---
-name: Suggestion
+name: interactable block
 about: Suggest a feature for or change to Beatblock
 title: "[SUGGESTION] "
 labels: suggestion
@@ -8,17 +8,16 @@ assignees: ''
 ---
 
 **Is your suggestion related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+no
 
 **Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+hi, i had an idea for it to be added a block that if you hit something happens, like if you hit the block the next part of the playthrough, or a easter-egg 
 
 **Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+a clickable option,where you click it to activate it
 
 **Additional context**
-Add any other context or screenshots about the suggestion here.
-
+i dont have any screenshots or contexts
 
 
 
